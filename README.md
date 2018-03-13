@@ -1,1 +1,1 @@
-# Start-New-Project A classic project for beginners
+# Start-New-Project
